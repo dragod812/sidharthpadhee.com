@@ -1,0 +1,1 @@
+#for storing secret keys like db passwords and API Keys
