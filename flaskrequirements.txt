@@ -1,5 +1,10 @@
 flask
-python-dotenv
-flask-wtf
+python_dotenv
+flask_wtf
 pyignite
-flask-login
+flask_login
+flask_bootstrap
+flask_sqlalchemy
+flask_my
+flask_migrate
+python_mysqldb
